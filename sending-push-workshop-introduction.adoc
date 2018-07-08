@@ -1,0 +1,10 @@
+== Sending a Push Notification to your mobile app
+
+In this workshop you will set up a mobile service, configure your code base to use that service, run the mobile app in an emulator, then send a Push Notification to that mobile app.
+
+
+=== Prerequisites:
+
+* [x] Completed all the steps in link:https://docs.aerogear.org/[Getting Started].
+
+ 
