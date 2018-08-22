@@ -12,4 +12,5 @@ vars:
 
 modules:
   activate:
+  - introduction
   - setting-up-enmasse
