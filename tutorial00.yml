@@ -13,4 +13,4 @@ vars:
 modules:
   activate:
   - introduction
-  - setting-up-enmasse
+  - running-a-fruit-inventory-application

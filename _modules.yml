@@ -1,5 +1,5 @@
 modules:
   introduction:
     name: Introduction
-  setting-up-enmasse:
-    name: Setting Up EnMasse
+  running-a-fruit-inventory-application:
+    name: Running a fruit inventory application

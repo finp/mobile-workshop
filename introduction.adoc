@@ -17,12 +17,12 @@ ifdef::context[:parent-context: {context}]
 // If the assembly is reused in other assemblies in a guide, include {context} in the ID: [id='a-collection-of-modules-{context}'].
 = Introduction
 
-In this tutorial, you will build a simple REST-based integration that enables a new fruit type to be added to an inventory list for a fictional grocery store.
+In this tutorial, you build a REST-based application that enables a user to add a new fruit type to an inventory list for a fictional grocery store.
 
 
 .Prerequisites
 
-* [x] GitHub account
-* [x] OpenShift Online account
-
-// The following include statements pull in the module files that comprise the assembly. Include any combination of concept, procedure, or reference modules required to cover the user story. You can also include other assemblies.
+* [x] An GitHub account
+//https://github.com/integr8ly/installation/blob/master/README.md
+* [x] An OpenShift instance with Integreatly components installed
+* [x] OpenShift account credentials for a pre-configured instance
