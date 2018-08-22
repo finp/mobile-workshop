@@ -1,0 +1,15 @@
+---
+id: tutorial00
+name: Adding to an inventory using Fuse, EnMasse, and Che
+revision: 0.9
+
+content:
+  url: https://github.com/finp/mobile-workshop
+
+vars:
+  ENVIRONMENT: ""
+  experimental: ""
+
+modules:
+  activate:
+  - setting-up-enmasse

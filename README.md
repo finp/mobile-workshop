@@ -2,7 +2,7 @@
 
 ## Usage on Local Docker
 ```
-./build/run.sh
+./build/run-local.sh
 
 ```
 
@@ -10,6 +10,6 @@
 ```
 $ oc new-app osevg/workshopper:latest --name=mobile-workshop \
     -e CONTENT_URL_PREFIX=https://raw.githubusercontent.com/finp/mobile-workshop/master \
-    -e WORKSHOPS_URLS=https://raw.githubusercontent.com/finp/mobile-workshop/master/sending-push.yml
-$ oc expose svc/mobile-workshop
+    -e WORKSHOPS_URLS=https://raw.githubusercontent.com/finp/mobile-workshop/master/tutorial00.yml
+$ oc expose svc/tutorial00
 ```

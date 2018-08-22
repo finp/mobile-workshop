@@ -1,6 +1,5 @@
 modules:
-  sending-push-workshop-introduction:
+  introduction:
     name: Introduction
-  provisioning-push.ws:
-    name: Provisioning
- 
+  setting-up-enmasse:
+    name: Setting Up EnMasse
